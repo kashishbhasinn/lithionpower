@@ -13,19 +13,19 @@ st.markdown("""
     <style>
         .header {
             font-size: 2.5em;
-            color: #2E86AB;
-            border-bottom: 2px solid #2E86AB;
+            color: #FFC0CB;
+            border-bottom: 2px solid #FFC0CB;
             padding-bottom: 10px;
             margin-bottom: 20px;
         }
         .section-header {
             font-size: 1.8em;
-            color: #2E86AB;
+            color: #FFC0CB;
             margin-top: 30px;
             margin-bottom: 15px;
         }
         .highlight {
-            background-color: #E8F4F8;
+            background-color: #E37383;
             padding: 10px;
             border-radius: 5px;
             margin-bottom: 10px;
