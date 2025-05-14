@@ -35,7 +35,7 @@ st.markdown("""
             border-bottom: 1px solid #eee;
         }
         .cta-button {
-            background-color: #2E86AB !important;
+            background-color: #E0115F !important;
             color: white !important;
             font-weight: bold !important;
             padding: 10px 20px !important;
@@ -43,7 +43,7 @@ st.markdown("""
             margin-top: 30px !important;
         }
         .project-card {
-            border-left: 4px solid #2E86AB;
+            border-left: 4px solid #FFC0CB;
             padding-left: 15px;
             margin-bottom: 20px;
         }
